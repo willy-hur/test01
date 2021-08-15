@@ -1,4 +1,5 @@
 # test01
+
 test01
 
 rfd = open("name.txt","a")
@@ -11,3 +12,4 @@ rfd = open("name.txt","r")
 print("\n",rfd.read())
 rfd.close()
 Print("hi")
+inout("수정")
